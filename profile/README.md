@@ -2,16 +2,28 @@
 
 # CYBER IQ
 
-**Cybersecurity · Networks · Software · AI — Baghdad, Iraq**
+**Hardware · Software · AI · Cybersecurity — Baghdad, Iraq**
+
+شركة **سايبر آي كيو** وفريقها التقني **سايبر تيم (Cyber Team)**
+
+[الملف التعريفي](https://github.com/CYBERIQ-HQ/CyberIQ/blob/main/COMPANY_PROFILE.md) · [الخدمات](https://github.com/CYBERIQ-HQ/CyberIQ/blob/main/SERVICES.md) · [المنصة التعليمية](https://github.com/CYBERIQ-HQ/CyberIQ/blob/main/PLATFORM.md) · [الخطة](https://github.com/CYBERIQ-HQ/CyberIQ/blob/main/ROADMAP.md) · [الفريق](https://github.com/CYBERIQ-HQ/CyberIQ/blob/main/TEAM.md)
 
 </div>
 
 <div dir="rtl">
 
-**سايبر آي كيو** فريق تقني عراقي متخصص في الأمن السيبراني والشبكات والبرمجة والذكاء الاصطناعي. نبني حلولاً أمنية عملية، من العتاد إلى البرمجيات، بأيدٍ عراقية.
+**سايبر آي كيو** شركة تقنية عراقية تعمل في الهاردوير والسوفتوير والذكاء الاصطناعي والأمن السيبراني. ينفّذ أعمالها فريق **سايبر تيم**، الذي انطلق من قسم هندسة الشبكات والأمن السيبراني — الجامعة العراقية. نقدّم أنفسنا بما نفّذناه فعلاً، وكل عمل أدناه في مستودع مستقل.
 
-- **الرؤية:** أن نكون مرجعاً عراقياً موثوقاً في الأمن السيبراني.
-- **الرسالة:** نصمم أنظمة حماية ورصد وتحليل، وندرّب جيلاً جديداً من المختصين.
+## ماذا نقدّم
+
+| الخدمة | باختصار |
+|---|---|
+| **المنصة التعليمية للجامعات** | الجامعة تنشر كورساتها وتصدر الشهادات باسمها وشعارها، مع كورسات عامة من Cyber IQ في الأمن السيبراني و CTF والبرمجة والذكاء الاصطناعي |
+| **الهاردوير** | أجهزة أمنية مدمجة، تجهيز مختبرات وشبكات وسيرفرات، صيانة الحاسبات |
+| **السوفتوير والبرمجة** | منصات ومواقع، برمجة أنظمة مدمجة، لوحات مراقبة |
+| **الأمن السيبراني** | مراكز عمليات أمنية، مراقبة الشبكات، كشف التهديدات اللاسلكية، التوعية |
+| **الذكاء الاصطناعي** | تحليل التهديدات والإشارات بالذكاء الاصطناعي |
+| **التدريب** | ورش تطبيقية ومسابقات CTF |
 
 </div>
 
@@ -41,8 +53,8 @@
 | [ورشة آفاق التعليم الأكاديمي والمهني](https://github.com/CYBERIQ-HQ/Workshop-Academic-Horizons) | [Workshop2](https://github.com/hfsduu5-coder/Workshop2) |
 | [ورشة CTF & Cybersecurity](https://github.com/CYBERIQ-HQ/Workshop-CTF) | [Workshop3](https://github.com/hfsduu5-coder/Workshop3) |
 
-## More
+<div align="center">
 
-- [About Cyber IQ](https://github.com/CYBERIQ-HQ/CyberIQ)
-- [Company profile](https://github.com/CYBERIQ-HQ/CyberIQ/blob/main/COMPANY_PROFILE.md)
-- [Team](https://github.com/CYBERIQ-HQ/CyberIQ/blob/main/TEAM.md)
+**7** projects · **150** laptops restored · **30 PCs + 2 servers** lab · **2** workshops · **10**-member Cyber Team
+
+</div>
